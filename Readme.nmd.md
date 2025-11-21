@@ -22,5 +22,3 @@
 
 ## GitHub repo
 Project Name (repository display name): `Nandigam Divya`
-
-If you want any file in another language (Java / C++ / JavaScript) or need them combined in a single file, tell me and I’ll convert them right away.
